@@ -46,6 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="6.ClassArrayAndPublic.cs" />
+    <Compile Include="5.Properties.cs" />
+    <Compile Include="4.FieldNonStatic.cs" />
+    <Compile Include="3.FieldStatic.cs" />
     <Compile Include="1.Constructor.cs" />
     <Compile Include="2.ConstantReadOnly.cs" />
     <Compile Include="Program.cs" />
