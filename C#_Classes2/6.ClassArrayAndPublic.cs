@@ -78,3 +78,5 @@ class ImageProgram
         imageSystem.PrintEveryImageFileDetails(allImages);
     }
 }
+
+ 

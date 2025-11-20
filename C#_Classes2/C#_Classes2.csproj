@@ -52,11 +52,17 @@
     <Compile Include="3.FieldStatic.cs" />
     <Compile Include="1.Constructor.cs" />
     <Compile Include="2.ConstantReadOnly.cs" />
+    <Compile Include="7.Namespaces\1.AllFiles.cs" />
+    <Compile Include="7.Namespaces\2.ExcelFiles.cs" />
+    <Compile Include="7.Namespaces\3.PDFFiles.cs" />
+    <Compile Include="7.Namespaces\4.WordFiles.cs" />
+    <Compile Include="7.Namespaces\5.MainProgram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
