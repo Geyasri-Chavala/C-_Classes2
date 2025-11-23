@@ -57,6 +57,8 @@
     <Compile Include="7.Namespaces\3.PDFFiles.cs" />
     <Compile Include="7.Namespaces\4.WordFiles.cs" />
     <Compile Include="7.Namespaces\5.MainProgram.cs" />
+    <Compile Include="8.StaticClass.cs" />
+    <Compile Include="9.Loggers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
